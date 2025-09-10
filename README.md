@@ -18,7 +18,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto calculadora" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
